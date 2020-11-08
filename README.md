@@ -14,7 +14,7 @@ Keeping track of my web development skills and learning in one place along with 
 | **CSS**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **JavaScript**          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **ES6**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **React**               |   ![done][done]   |    ![done][done]    |                  |
+| **React**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Git**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Git bash**            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **GitHub**              |   ![done][done]   |    ![done][done]    |  ![done][done]   |
